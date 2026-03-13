@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Serif+Display&family=Space+Mono:wght@700&family=Unbounded:wght@700;900&family=Inter:wght@400;700;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-unbounded: "Unbounded", sans-serif;
+  --font-bebas: "Bebas Neue", cursive;
+  --font-serif-display: "DM Serif Display", serif;
+  --font-mono: "Space Mono", monospace;
+  --font-sans: "Inter", sans-serif;
+  
+  --color-electric-blue: #0000FF;
+  
+  --text-4xl: 1.75rem;
+}
