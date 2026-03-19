@@ -1,0 +1,5 @@
+{
+  "name": "Remix: MAIAD Library",
+  "description": "A digital library for design and AI school students, featuring an editorial shelf interface and AI-powered book Q&A grounded in PDF content.",
+  "requestFramePermissions": []
+}
